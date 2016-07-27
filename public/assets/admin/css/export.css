@@ -1,0 +1,77 @@
+.widget {
+  background: #f9f9f9;
+  border: 1px solid #cdcdcd;
+  margin-top: 10px;
+  clear: both;
+  box-shadow: 0 1px 0 #fff;
+  -moz-box-shadow: 0 1px 0 #fff;
+  -webkit-box-shadow: 0 1px 0 #fff;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -khtml-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.widget table {
+  width: 100%;
+}
+
+table.table-order thead td:first-child {
+    border-left: none;
+}
+
+table.table-order thead td {
+    border-bottom: 1px solid #cbcbcb;
+    border-left: 1px solid #cbcbcb;
+    color: #878787;
+    font-size: 13px;
+    color: #878787;
+    font-weight: normal;
+    padding: 3px 8px 2px 8px;
+}
+table.table-order thead td {
+    text-align: center;
+}
+
+table.table-order {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table.table-order tr {
+  border-top: 1px solid #e4e4e4;
+}
+
+table.table-order tr:first-child {
+  border-top: none;
+}
+
+table.table-order td:first-child {
+  border-left: none;
+}
+table.table-order td {
+    border-left: 1px solid #e4e4e4;
+    padding: 8px;
+    vertical-align: middle;
+}
+table.table-order td {
+    text-align: center;
+}
+table.table-order td {
+    text-align: center;
+}
+.unlink {
+  text-decoration: line-through;
+  color: red;
+}
+.message {
+  border-radius: 3px;
+}
+
+.hide_ex {
+  display: none;
+}
+
+#hide {
+  display: none;
+}

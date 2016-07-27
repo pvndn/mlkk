@@ -1,0 +1,332 @@
+div#top-header {
+	padding: 10px 0 0;
+}
+
+.navbar-header {
+    position: absolute;
+    top: -100px;
+    right: 0;
+    z-index: 999;
+}
+
+form .search {
+	margin-bottom: 20px;
+}
+
+div#top-header .contact-me {
+	padding: 0;
+	margin: 0;
+	text-align: left;
+}
+
+div#top-header ul.hotline {
+	padding: 0 15px;
+}
+
+
+#bs-example-navbar-collapse-1{
+	position: absolute;
+	top: -185px;
+	background: rgb(242, 242, 242) none repeat scroll 0% 0%;
+	z-index: 99;
+	width: 100%;
+	margin-top: -20px;
+}
+
+.nav-shadow {
+	height: 1px;
+}
+
+.service {
+	background: url('../img/backround-trans.png');
+    position: unset;
+    top: 0;
+    bottom: 135px;
+    margin-top: 0;
+    left: 0;
+    right: 0;
+}
+
+.sv-company {
+	background: #e42129;
+}
+
+.welcome h2, .high-light h2 {
+	font-size: 22px;
+}
+
+.welcome, .high-light {
+	padding: 5px 0 13px;
+	width: 50%;
+	float: left;
+}
+
+.welcome {
+    text-align: center;
+    padding-right: 13px;
+}
+
+.high-light {
+	background: #254a9b;
+	text-align: center;
+}
+
+.term {
+	background: transparent;
+	height: 100%;
+}
+
+.term, .term-pd {
+	color: #FFF;
+    padding: 4px 25px;
+}
+
+.term-pd h2 {
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 0;
+	font-size: 22px;
+	line-height: 30px;
+}
+
+.term-padd {
+	padding: 5px 0 10px;
+}
+
+.slogan {
+	font-size: 13px;
+	padding: 10px 0;
+}
+
+.intro .service .col-md-6 {
+	padding: 0;
+	height: auto;
+	overflow: unset;
+}
+
+.layout-80 {
+	width: 98%;
+	margin: 0 auto;
+}
+
+.layout-80 h3 {
+	text-transform: uppercase;
+	color: #254a9b;
+	font-weight: bold;
+	display: block;
+	font-size: 22px;
+}
+
+.layout-content ul {
+	padding: 0;
+	text-align: center;
+}
+
+.layout-content ul li {
+	text-align: center;
+	display: inline-block;
+    width: 23%;
+    margin: 0 0.5%;
+}
+
+.layout-content ul.product li {
+	background: transparent;
+	border: 1px solid #f7f7f7;
+    width: 45%;
+    margin: 15px 0;
+}
+
+
+.layout-content ul.product li:nth-child(2n+3) {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+
+.layout-content ul.product li:nth-child(2n+5), .layout-content ul.product li:nth-child(1) {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+
+.layout-content ul.product li:nth-child(2n+7) {
+	margin-right: 0;
+	margin-left: 0;
+}
+
+.layout-content ul.product li img {
+	width: 80%;
+    padding: 10px;
+}
+
+.layout-content ul.product li h2 {
+	font-size: 13px;
+}
+
+.partner ul li {
+	width: 10%;
+}
+
+.layout-new h2 {
+	font-size: 14px;
+	text-align: left;
+	font-weight: bold;
+	margin: 10px 0;
+}
+
+.layout-new h2 a {
+	color: #ed1b24;
+}
+
+.layout-new p.desc {
+	text-align: left;
+	font-size: 13px;
+}
+
+.layout-new .layout-content ul li {
+    text-align: center;
+    display: inline-block;
+    width: 45%;
+    margin: 0 1% 15px;
+}
+
+.layout-new ul {
+	margin-bottom: 0;
+}
+
+.feature {
+	background: #ed1b24;
+}
+
+.feature h3 {
+	font-size: 14px;
+	color: #FFF;
+	margin: 0;
+	padding: 15px 0;
+}
+
+.feature ul {
+	padding: 0;
+}
+
+
+.feature ul li {
+	display: block;
+    line-height: 25px;
+}
+
+.feature ul li a {
+	color: #FFF;
+}
+
+.feature ul li.permission {
+	padding: 15px 0;
+}
+
+.slide {
+    margin: 20px 0;
+}
+
+.slide-mb {
+	display: none;
+}
+
+
+.license p.high-light {
+    width: 100%;
+}
+
+.license {
+	text-align: center;
+	padding: 15px 0;
+	color: #555;
+	letter-spacing: 0.2pt;
+	padding: 15px;
+	font-size: 13px;
+}
+
+.license p {
+    clear: both;
+}
+
+.sale {
+    position: relative;
+	left: -23px;
+	width: 95px;
+    margin-top: -84%;
+    margin-bottom: 60%;
+}
+
+.ft-menu {
+	width: 50%;
+	float: left;
+}
+
+.ct-product ul.product li {
+    width: 30%;
+    margin: 15px 0;
+}
+
+
+.ct-product ul.product li:nth-child(2n+5) {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.ct-product ul.product li:nth-child(3n+3) {
+	margin-left: 3%;
+	margin-right: 0;
+}
+
+.ct-product ul.product li:nth-child(1) {
+	margin-left: 0;
+	margin-right: 3%;
+}
+
+
+.ct-product ul.product li:nth-child(3n+4) {
+	margin-right: 3%;
+	margin-left: 0;
+}
+
+
+.info-product ul li {
+	display: block;
+	width: 100%;
+	text-align: left;
+    padding: 0 0 0 20px;
+    margin: 0;
+    line-height: 32px;
+}
+
+.help {
+    position: unset;
+    background: unset;
+}
+
+.security {
+	margin: 20px 0;
+}
+
+.ser-content ul li {
+	width: 100%;
+	text-align: left;
+	margin: 0;
+    padding: 10px 0 0;
+}
+
+.address {
+    margin: 0 0 0 20px;
+    padding: 0;
+}
+
+.address ul li {
+	display: block;
+	width: 100%;
+	text-align: left;
+	font-size: 13px;
+}
+
+.col-right, .col-content {
+	width: 100%;
+}
